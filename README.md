@@ -45,10 +45,4 @@ flowchart TD
 
 ## Results & Limitations
 
-[TODO: add any real usage numbers you're comfortable sharing — user count, retention, etc. Leaving blank rather than guessing.]
-
 Known limitation: one accumulation path in the focus-tracking logic reads-then-adds instead of using an atomic upsert, and isn't yet covered by a test.
-
-## What's next
-
-[TODO: fill in your actual near-term roadmap for StudyLedger.]
