@@ -1,6 +1,6 @@
 # StudyLedger — Case Study
 
-[studyledger.in](https://studyledger.in) is an exam-prep SaaS for Indian students (CBSE, ICSE, IB, IGCSE, State Board, NIOS). It turns logged study data — past-paper attempts, syllabus coverage, mistakes, study time — into one 0–1000 "Ledger Score" and a set of tools that act on it.
+[studyledger.in](https://studyledger.in) is an exam-prep platform for Indian students (CBSE, ICSE, IB, IGCSE, State Board, NIOS), built and run solo on Next.js, Supabase, and Claude. It turns logged study data — past-paper attempts, syllabus coverage, mistakes, study time — into one 0–1000 "Ledger Score" and a set of tools that act on it.
 
 This repository is a **public case study only**: architecture, stack, and screenshots. It does not contain the product's source code, which is closed.
 
